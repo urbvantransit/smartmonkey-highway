@@ -1,0 +1,59 @@
+*.pyc
+*.pyo
+*.swp
+*~
+
+envs/
+.DS_Store/
+
+*.sublime-*
+
+# Installer logs
+pip-log.txt
+
+# Flake8 violation file
+violations.flake8.txt
+
+# Packages
+*.egg
+*.egg-info
+dist
+build/
+eggs
+bin
+sdist
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+.vscode
+
+# Distribution / packaging
+.Python
+env/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+.idea/
+.coverage
+htmlcov/*
